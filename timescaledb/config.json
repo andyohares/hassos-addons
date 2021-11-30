@@ -41,5 +41,5 @@
     "system_packages": ["str"],
     "init_commands": ["str"]
   },
-  "image": "andyohares/pgtest-aarch64"
+  "image": "andyohares/pgtest"
 }
