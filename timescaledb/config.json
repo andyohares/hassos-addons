@@ -41,5 +41,5 @@
     "system_packages": ["str"],
     "init_commands": ["str"]
   },
-  "image": "husselhans/hassos-addon-timescaledb-{arch}"
+  "image": "andyohares/pgtest:test"
 }
